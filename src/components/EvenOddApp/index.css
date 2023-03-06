@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.small-cont {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.main-head {
+  color: #0f172a;
+  font-size: 40px;
+  font-weight: bold;
+}
+.head {
+  color: #334155;
+  font-size: 20px;
+  margin-top: 10px;
+  font-weight: 500;
+}
+.btn {
+  color: #1e293b;
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+.para {
+  color: #1e293b;
+  font-size: 15px;
+}
